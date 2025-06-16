@@ -1,8 +1,0 @@
-Login Page:
-The Login Page is designed for students and staff to access their respective profiles. Users can select either Student or Staff to enter the system. The page features a simple, engaging layout with academic icons and a chalkboard-style background, emphasizing the educational theme.
-
-Student Performance Dashboard:
-The Student Performance Dashboard offers a comprehensive view of a student's academic and extracurricular performance. It displays important details such as the Student Name (Richard Martin), Behavior Score (4), and Attendance (32%), along with information on Extracurricular Activities (Sports) and Disciplinary Notes like Late Submission. The dashboard also presents the student’s Subject Marks with a graphical comparison, allowing for easy analysis of academic performance across subjects like History and Science.
-
-Staff Dashboard:
-The Staff Dashboard provides an overview of the entire student body and key statistics. It shows the Total Number of Students (300), Male and Female Student Count, and Number of Subjects (7). The Extracurricular Activities chart visualizes student participation in different activities like Arts, Music, and Sports. The Disciplinary Notes section highlights issues like Bullying and Fighting, and the Average Marks in Subjects gives a clear overview of the overall academic performance across subjects such as Physics, English, and Math
