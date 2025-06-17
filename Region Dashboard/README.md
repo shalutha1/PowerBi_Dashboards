@@ -26,5 +26,6 @@ The **Region Dashboard** provides a clear and detailed analysis of sales and pro
 ## Purpose
 
 This dashboard is essential for tracking regional sales performance, analyzing customer contributions, and understanding city-specific sales trends. It can help optimize marketing and sales strategies.
-![Screenshot 2025-06-17 000927](https://github.com/user-attachments/assets/318f0e2f-9bdf-4e36-950c-1dbd03b2ef9b)
+![region](https://github.com/user-attachments/assets/d575def3-67cc-4f88-ade9-dda74a2a32f9)
+
 
