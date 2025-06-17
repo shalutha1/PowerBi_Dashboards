@@ -17,9 +17,15 @@ This dashboard was built to be intuitive, visually appealing, and highly informa
 📈 Your feedback matters! What do you think about this visualization? How do you use dashboards in your work to drive impact? Let’s exchange ideas! 💬
 
 #DataVisualization #BusinessIntelligence #Analytics #DashboardDesign #PowerBI #Tableau #DataDriven
-hashtag#powerbi hashtag#dashboard hashtag#microsoftpowerbi hashtag#Sales![Screenshot 2023-11-01 021222](https://github.com/shalutha1/Sales_Dashboard/assets/90474520/4ccb211a-e7fb-4006-8e55-c40f6390c966)
+hashtag#powerbi hashtag#dashboard hashtag#microsoftpowerbi hashtag#Sales
+
+![course sales dashboard](https://github.com/user-attachments/assets/f9c7c129-2b22-48fa-bfac-da4f7c64c8e6)
 
 
 
-https://github.com/shalutha1/Sales_Dashboard/assets/90474520/3fc92318-8acd-4f24-ac48-42521b66d6e7
+
+https://github.com/user-attachments/assets/7d429784-6acb-44d7-89cb-d94d6c21386d
+
+
+
 
