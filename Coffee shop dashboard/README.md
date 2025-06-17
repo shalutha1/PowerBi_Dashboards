@@ -6,9 +6,14 @@ Power BI is a popular data visualization tool that allows us to create interacti
 With the power of Power BI, I've brought together key Sales metrics, turning raw data into actionable insights for smarter decision-making.
 hashtag#powerbi hashtag#dashboard hashtag#microsoftpowerbi hashtag#sales
 
-![coffee shop](https://github.com/shalutha1/Coffee_shop_dashboard/assets/90474520/28260844-c6b9-4938-b00a-d4e88377cf7c)
+![coffee shop](https://github.com/user-attachments/assets/a4451f46-6519-4184-96f5-f41984166d42)
+
 
 Sample Video
 
-https://github.com/shalutha1/Coffee_shop_dashboard/assets/90474520/f32654e4-5522-4d2c-a686-101d2522f1aa
+
+
+
+https://github.com/user-attachments/assets/7fdcb29a-2a15-47f4-8946-7ed6451ea4cc
+
 
