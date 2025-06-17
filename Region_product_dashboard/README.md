@@ -18,10 +18,12 @@ Feel free to explore and let me know your thoughts!
 ## Dashboard Video
 
 
-https://github.com/user-attachments/assets/4c61aeea-0516-4e44-b5b5-780428a8f9a3
+https://github.com/user-attachments/assets/f58a45d2-0575-46c2-83d8-b97fc9c098f8
+
+
+
 
 
 ## Dashboard Images
-![thaswa1](https://github.com/user-attachments/assets/40d35dbd-1f97-46e8-ab1d-3504838aa349)
-![thawa2](https://github.com/user-attachments/assets/58af7e00-f056-4139-8181-577911181419)
-
+![THAWALAMA1](https://github.com/user-attachments/assets/bbb646bb-cfe0-44ef-ba1f-114be9277340)
+![THAWALAMA2](https://github.com/user-attachments/assets/9eb6b61c-f71e-44c7-8ad8-58004de9f22c)
