@@ -25,6 +25,18 @@ hashtag#PowerBI hashtag#DataVisualization hashtag#Fiverr hashtag#StudentAnalytic
 
 
 
+https://github.com/user-attachme
+![student dashboard interface](https://github.com/user-attachments/assets/e55ae700-2dc1-4da9-8e77-64c4087cc608)
+nts/assets/40fdabd3-7a5f-4947-82c3-a0a440dbcf55
+![student performence](https://github.com/user-attachments/assets/097f33e9-f323-42e9-84c1-1076a9669f75)
+
+
+![staff dashboard](https://github.com/user-attachments/assets/df44696a-3f2d-42ef-acf7-86db867a5a3f)
+
+
+
+
+
 
 
 
