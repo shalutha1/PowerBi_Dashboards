@@ -8,9 +8,14 @@ Power BI is a popular data visualization tool that allows us to create interacti
 With the power of Power BI, I've brought together key Salary metrics, turning raw data into actionable insights for smarter decision-making.
 hashtag#powerbi hashtag#dashboard hashtag#microsoftpowerbi hashtag#Data science
 
-![datascience salary](https://github.com/shalutha1/Data_Science_Salary_Dashboard/assets/90474520/69596e8c-b637-470f-893a-9f526f53c664)
+
+![datascience salary](https://github.com/user-attachments/assets/3cf62bff-2750-4963-9b0c-e55353cf6c43)
 
 
+sample video
 
-https://github.com/shalutha1/Data_Science_Salary_Dashboard/assets/90474520/39c42f2a-4a2c-4bd5-9f32-3a1adc0efa18
+
+https://github.com/user-attachments/assets/4edd4fbc-9e92-4d0e-ace8-cb3c5b3ac78a
+
+
 
