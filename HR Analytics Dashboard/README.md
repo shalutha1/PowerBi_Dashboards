@@ -7,9 +7,9 @@ With the power of Power BI, I've brought together key HR metrics, turning raw da
 hashtag#powerbi hashtag#dashboard hashtag#microsoftpowerbi hashtag#HR
 
 
+![HR analytics](https://github.com/user-attachments/assets/86808b11-84e0-4a75-ac85-1bf28b032461)
 
-![fg](https://github.com/shalutha1/HR-Analytics-Dashboard/assets/90474520/8eea30f0-184a-4d77-ae66-c16ccec47732)
 
 
-https://github.com/shalutha1/HR-Analytics-Dashboard/assets/90474520/c611a20b-0a00-439b-9b98-070dc9e5fd22
+
 
